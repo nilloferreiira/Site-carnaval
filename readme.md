@@ -4,7 +4,7 @@ Essa é uma aplicação feita usando apenas HTML e CSS desenvolvida no desafio #
 
 
 
-![Preview](/assets/Desktop.png)
+![Preview](/assets/Desktop1.png)
 
 ## Links
   - Repositório: https://github.com/nilloferreiira/Site-carnaval
